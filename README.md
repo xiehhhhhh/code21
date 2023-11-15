@@ -1,4 +1,4 @@
-# code21 
+# code21  
 //贪心   木板
 #include<queue>
 #include<cstdio>
